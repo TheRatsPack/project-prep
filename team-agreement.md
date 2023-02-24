@@ -101,6 +101,22 @@
 
  - GitHub Projects will be used for task management
 
+ - Components of your project that will live on GitHub
+  - All of the components will live there. It will be published on main and work will be done on individual branches and pushed for approval by two students before merging with main. 
+  - We will use GitHub Projects for task management
+  - Andrew will merge PRs
+  - We will merge after medium changes to our own branch. We will merge to main when significant changes occur/if someone needs someone else's changes to continue their work.
+  - On slack we will ping each other the name of the pull request. Andrew will reply when done
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
