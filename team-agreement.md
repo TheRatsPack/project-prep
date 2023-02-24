@@ -43,70 +43,69 @@
   
 
  - Conflict Plan/Resolution
-  - Don't tuck away feelings/frustrations. Don't explode
-  - Communicate
-  - Can talk in a group setting or talk 1 on 1 with someone to clear out a communication block or difference of opinions
-  - Handle your business
-  - Speak up if you want to learn something or feel you aren't being heard
+    - Don't tuck away feelings/frustrations. Don't explode
+    - Communicate
+    - Can talk in a group setting or talk 1 on 1 with someone to clear out a communication block or difference of opinions
+    - Handle your business
+    - Speak up if you want to learn something or feel you aren't being heard
 
  - What to do when someone starts taking over the project and not letting others contribute
-  - Refer to Conflict resolution
-  - If this doesn't take affect, have an intervention in a group setting
-  - If need be, bring Audrey in
+    - Refer to Conflict resolution
+    - If this doesn't take affect, have an intervention in a group setting
+    - If need be, bring Audrey in
 
 
  - Breaks: 
-  - 15 minute rule on being stuck. 
-  - 10 minute break every hour or so or if we are frustrated. 
-  - Sustenance is mandatory, eat and drink so you can stay focused all weak. 
+    - 15 minute rule on being stuck. 
+    - 10 minute break every hour or so or if we are frustrated. 
+    - Sustenance is mandatory, eat and drink so you can stay focused all weak. 
  
  - Strategy to make sure all voices are heard
-  - Continue our open dialogue since we have seen success so far
-  - encourage others to get back involved if they start going quiet
+    - Continue our open dialogue since we have seen success so far
+    - encourage others to get back involved if they start going quiet
 
 - How to create a safe environment where everybody feels comfortable speaking up
- - !Vulgor Language !violence
- - Keep each other in check/don't let anyone take over too much or push their vision over others too often
- - remind each other to be open to receive other messages
+  - Keep each other in check/don't let anyone take over too much or push their vision over others too often
+  - remind each other to be open to receive other messages
 
  - How to approach each other and the challenges of the project knowing it is impossible to perfectly balance the work load
-  - Prefer to opt for Voice Chat to resolve conflicts so that communication is clear
-  - Don't gossip behind each other's backs/be straight forward and transparent as much as possible
-  - Don't hold grudges or focus on who did what and who is working more. Look inward and give what you can to the team and project
+    - Prefer to opt for Voice Chat to resolve conflicts so that communication is clear
+    - Don't gossip behind each other's backs/be straight forward and transparent as much as possible
+    - Don't hold grudges or focus on who did what and who is working more. Look inward and give what you can to the team and project
 
  - How to raise concerns about members not contributing
-  - refer to conflict resolution 
-  - communicate
+    - refer to conflict resolution 
+    - communicate
 
  - How and when will you escalate conflicts if resolution attempts are unsuccessful?
-  - refer to conflict resolution
-  - will escalate to Audrey, if need be
+    - refer to conflict resolution
+    - will escalate to Audrey, if need be
 
  - What platforms to use to communicate?
-  - Standard communication will be on our group Slack
-  - Remo will be used for screen sharing collaboration with slack as a backup
+    - Standard communication will be on our group Slack
+    -  Remo will be used for screen sharing collaboration with slack as a backup
   
  - Communication after hours and on the weekend
-  - Slack
+    - Slack
 
  - Plan if you fall behind?
-  - We have pretty open schedules and some night owls, so we can grind things out in the evening, if need be
+    -  We have pretty open schedules and some night owls, so we can grind things out in the evening, if need be
 
  - Work Plan to keep from siloing or lone wolfing
-  - Call people out, in a respectful way, that are contributing too much or too little
+    - Call people out, in a respectful way, that are contributing too much or too little
 
  - Identify Tasks, Assign Tasks, 
-  - Use strengths or pair someone with a strength with someone who wants to be better at the skill
-  - even out the workload as much as we can
+    - Use strengths or pair someone with a strength with someone who wants to be better at the skill
+    - even out the workload as much as we can
 
  - GitHub Projects will be used for task management
 
  - Components of your project that will live on GitHub
-  - All of the components will live there. It will be published on main and work will be done on individual branches and pushed for approval by two students before merging with main. 
-  - We will use GitHub Projects for task management
-  - Andrew will merge PRs
-  - We will merge after medium changes to our own branch. We will merge to main when significant changes occur/if someone needs someone else's changes to continue their work.
-  - On slack we will ping each other the name of the pull request. Andrew will reply when done
+    - All of the components will live there. It will be published on main and work will be done on individual branches and pushed for approval by two students before merging with main. 
+    - We will use GitHub Projects for task management
+    - Andrew will merge PRs
+    - We will merge after medium changes to our own branch. We will merge to main when significant changes occur/if someone needs someone else's changes to continue their work.
+    - On slack we will ping each other the name of the pull request. Andrew will reply when done
  
  
  
